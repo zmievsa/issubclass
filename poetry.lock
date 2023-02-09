@@ -243,7 +243,7 @@ python-versions = ">=3.7"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "417997f86e5121bce52ace028ea8e8917f23baef101bdf7a84c8e37fe322eaf8"
+content-hash = "0ca9ee22c4e34eff2d3b9ff78492acfd99182b55503e4ea967808d2a092c0e25"
 
 [metadata.files]
 attrs = [
