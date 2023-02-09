@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "issubclass"
-version = "0.1.1"
+version = "0.1.2"
 description = "issubclass() builtin that doesn't raise TypeError when arguments are not classes"
 authors = ["Stanislav Zmiev <szmiev2000@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = ">=3.8"
 
 [tool.poetry.dev-dependencies]
 pyupgrade = "*"
