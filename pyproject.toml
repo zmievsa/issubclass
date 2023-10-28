@@ -2,7 +2,7 @@
 name = "issubclass"
 version = "0.1.2"
 description = "issubclass() builtin that doesn't raise TypeError when arguments are not classes"
-authors = ["Stanislav Zmiev <szmiev2000@gmail.com>"]
+authors = ["Stanislav Zmiev <zmievsa@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
